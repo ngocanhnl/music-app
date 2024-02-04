@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      // "outDir": "js", //Biên dịch vào thư mục js
+      "target": "ES6",
+      "module": "CommonJS",
+      "removeComments": true,
+      "esModuleInterop": true
+    }
+  }
